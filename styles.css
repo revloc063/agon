@@ -10,6 +10,7 @@ h1 {
 
 }
 img {
+  display: block;
   max-width: 80%;
   height: auto;
   margin: auto;
@@ -17,9 +18,23 @@ img {
 ul {
   list-style-type: none;
 }
+.set-container {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+}
+.set {
+  display: flex;
+  justify-content: flex-start;
+  flex-wrap: wrap;
+  width: 80%;
+}
+.set-item {
+  border: 1px solid #fff;
+  width: 300px;
+  text-align: center;
+}
 .footer {
   width: 100%;
-  background-color: #aaaaaa;
   text-align: center;
-
 }

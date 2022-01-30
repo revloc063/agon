@@ -1,0 +1,25 @@
+.bg-dark {
+  background-color: #99ccff!important;
+}
+body {
+  font-family: "Trebuchet MS", "Arial", sans-serif !important;
+}
+h1 {
+  width: 100%;
+  text-align: center;
+
+}
+img {
+  max-width: 80%;
+  height: auto;
+  margin: auto;
+}
+ul {
+  list-style-type: none;
+}
+.footer {
+  width: 100%;
+  background-color: #aaaaaa;
+  text-align: center;
+
+}
